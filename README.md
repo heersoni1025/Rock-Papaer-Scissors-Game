@@ -1,4 +1,4 @@
-# Rock–Paper–Scissors 🎮✊📄✂️
+# Rock–Paper–Scissors Game 🎮✊📄✂️
 
 A tiny, fast terminal game in C where you battle the computer in **5 quick rounds** of Rock–Paper–Scissors. Clean structure, minimal dependencies, instant fun.
 
